@@ -197,4 +197,4 @@ root.mainloop()
 
 
 
-## ALL MADE BY EGE
+## If you are reading this I am Skibidi Sigma
